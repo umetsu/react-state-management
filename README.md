@@ -1,3 +1,11 @@
+# React State Management
+
+* https://kentcdodds.com/blog/application-state-management-with-react
+
+この記事を参考に、ReduxやMobXなどを使わずにReactだけで状態管理する練習用のリポジトリ。
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
