@@ -1,11 +1,20 @@
-import { Typography } from "@material-ui/core"
 import React from "react"
+import { BrowserRouter, Switch, Route } from "react-router-dom"
+import { DetailPage } from "./detail/DetailPage"
+import { TopPage } from "./top/TopPage"
 
 const App: React.FC = () => {
   return (
-    <div>
-      <Typography>Hello World</Typography>
-    </div>
+    <BrowserRouter>
+      <Switch>
+        <Route path={"/detail"}>
+          <DetailPage />
+        </Route>
+        <Route path={"/"}>
+          <TopPage />
+        </Route>
+      </Switch>
+    </BrowserRouter>
   )
 }
 
