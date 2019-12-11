@@ -4,6 +4,15 @@
 
 この記事を参考に、ReduxやMobXなどを使わずにReactだけで状態管理する練習用のリポジトリ。
 
+## ついでにやってみたいこと
+* [x] renovate導入
+* [ ] Github Actions使ってCIの設定
+* [ ] 同じくCDの設定
+* [ ] apollo clientと合わせたときの構成がどうなるか検証
+* [ ] Storybook導入
+* [ ] Storyshots導入
+* [ ] react-testing-library導入
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
