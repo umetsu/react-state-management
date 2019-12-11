@@ -6,8 +6,8 @@
 
 ## ついでにやってみたいこと
 * [x] renovate導入
-* [ ] Github Actions使ってCIの設定
-* [ ] 同じくCDの設定
+* [x] Github Actions使ってCIの設定
+* [ ] Github Actions使ってCDの設定
 * [ ] apollo clientと合わせたときの構成がどうなるか検証
 * [ ] Storybook導入
 * [ ] Storyshots導入
