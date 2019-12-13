@@ -9,7 +9,7 @@
 * [x] Github Actions使ってCIの設定
 * [ ] Github Actions使ってCDの設定
 * [ ] apollo clientと合わせたときの構成がどうなるか検証
-* [ ] Storybook導入
+* [x] Storybook導入
 * [ ] Storyshots導入
 * [ ] react-testing-library導入
 
