@@ -6,6 +6,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "updateSnapshot": "CI=true react-scripts test --updateSnapshot",
     "eject": "react-scripts eject",
     "codegen": "graphql-codegen --config codegen.yml",
     "storybook": "start-storybook -p 6006",
@@ -45,14 +46,19 @@
     "@graphql-codegen/typescript-react-apollo": "1.9.1",
     "@storybook/addon-actions": "5.2.8",
     "@storybook/addon-links": "5.2.8",
+    "@storybook/addon-storyshots": "5.2.8",
     "@storybook/addons": "5.2.8",
     "@storybook/preset-create-react-app": "1.3.2",
     "@storybook/react": "5.2.8",
     "@types/react-router-dom": "5.1.3",
+    "@types/react-test-renderer": "16.9.1",
+    "@types/storybook__addon-storyshots": "5.1.2",
     "babel-loader": "8.0.6",
     "eslint-config-prettier": "6.7.0",
     "eslint-plugin-prettier": "3.1.1",
     "graphql": "14.5.8",
-    "prettier": "1.19.1"
+    "prettier": "1.19.1",
+    "react-test-renderer": "16.12.0",
+    "require-context.macro": "1.2.2"
   }
 }
