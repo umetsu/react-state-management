@@ -11,6 +11,7 @@
 * [ ] apollo clientと合わせたときの構成がどうなるか検証
 * [x] Storybook導入
 * [x] StoryShots導入
+* [ ] react-hooks-testing-library導入
 * [ ] react-testing-library導入
 
 ---
