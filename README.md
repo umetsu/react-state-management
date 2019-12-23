@@ -8,6 +8,7 @@
 * [x] renovate導入
 * [x] Github Actions使ってCIの設定
 * [ ] Github Actions使ってCDの設定
+  * 今のままデプロイするとヘッダーに混ぜているGithubのトークンが見えちゃうので、どうしようか悩み中
 * [ ] apollo clientと合わせたときの構成がどうなるか検証
 * [x] Storybook導入
 * [x] StoryShots導入
