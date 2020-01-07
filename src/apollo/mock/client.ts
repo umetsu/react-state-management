@@ -15,7 +15,7 @@ const mocks: {
   Query: () => Partial<Query>
 } = {
   URI: () => "https://github.com/umetsu",
-  DateTime: () => "2020-01-017T00:00:00Z",
+  DateTime: () => "2020-01-01T00:00:00Z",
   Query: () => ({}),
 }
 
