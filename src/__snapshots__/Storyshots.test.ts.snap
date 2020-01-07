@@ -3,7 +3,7 @@
 exports[`Storyshots 共通コンポーネント|Header 基本 1`] = `
 <div>
   <header
-    className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary"
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
   >
     <div
       className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
